@@ -36,8 +36,6 @@
         Compile multiple files into one output. 
         
 # Files in repo
-    "Instructions.pdf" - a detailed instructions file that shows all the functionaities of the program (Hebrew)
-    ---------------------------------------------------------------------------------------------------------
     "Avengers.h" - header file of class Avengers
     "Avengers.cpp" - implementation of class Avengers
     ---------------------------------------------------------------------------------------------------------
