@@ -1,7 +1,4 @@
-# Palindrome
-    
-    # An Implementation of class "Palindrome"
-    
+# Palindrome  
     # An interactive C++ project that mostly practicing operators overloading
     
     # Also practicing the following:
