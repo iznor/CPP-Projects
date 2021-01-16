@@ -33,7 +33,6 @@
         Advanced use of <string.h> library
         
 # Files in repo
-    "Instructions.pdf" - a detailed instructions file that shows all the functionaities of the program (Hebrew)
     "Pal.h" - header file of class Palindrome
     "Pal.cpp" - implementation of class Palindrome
     "for_main.h" - header file of "for_main.cpp"
