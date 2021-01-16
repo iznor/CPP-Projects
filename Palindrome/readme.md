@@ -1,6 +1,6 @@
 # Palindrome
     
-    # An Implementation of classes "Palindrome"
+    # An Implementation of classe "Palindrome"
     
     # An interactive C++ project that mostly practicing operators overloading
     
