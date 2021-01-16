@@ -3,9 +3,6 @@
     # An Implementation of class "My Date" and "Calendar"
     
     # A  non-interactive C++ project that practicing the following:
-    
-    Multiple Files Compilation Modules
-        Compile multiple files into one output.
         
     Intro to OOP Programming
         Objects
@@ -28,6 +25,9 @@
         
     Strings
         Advanced use of <string.h> library
+        
+    Multiple Files Compilation Modules
+        Compile multiple files into one output.
         
 # Files in repo
     "Instructions.pdf" - a detailed instructions file that shows all the functionaities of the program (Hebrew)
