@@ -32,7 +32,6 @@
         Advanced use of <string.h> library
         
 # Files in repo
-    "Instructions.pdf" - a detailed instructions file that shows all the functionaities of the program (Hebrew)
     "Calendar.h" - header file of class Calendar
     "Calendar.cpp" - implementation of class Calendar
     "Event.h" - header file of class Event
